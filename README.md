@@ -150,13 +150,10 @@ This work aimed to propose the optical model for Handwritten Text Recognition (H
 @article{10.1109/ACCESS.2020.3039003,
     author  = {S Sai Suryateja},
     title   = {Improvement in Efficiency of The State-Of-The-Art Handwritten Text Recognition Models},
-    journal = {IEEE Access},
+    journal = {Turkish Journal of Computer and Mathematics Education (TURCOMAT)},
     pages   = {7549-7556},
     month   = {4},
     year    = {2021},
     volume  = {10},
-    isbn    = {2169-3536},
-    url     = {https://doi.org/10.1109/ACCESS.2020.3039003},
-    doi     = {10.1109/ACCESS.2020.3039003},
 }
 ```
