@@ -141,3 +141,22 @@ This work aimed to propose the optical model for Handwritten Text Recognition (H
     doi         = {10.1109/SIBGRAPI51738.2020.00016},
 }
 ```
+
+### Improvement in Efficiency of The State-Of-The-Art Handwritten Text Recognition Models ([here](https://www.turcomat.org/index.php/turkbilmat/article/view/5661))
+
+This work aimed to propose the optical model for Handwritten Text Recognition (HTR) and compare it with the state-of-the-art models. The performance comparison was validated in 5 different datasets (Bentham, IAM, RIMES, Saint Gall and Washington). In addition, it was considered one of the best papers in the 33rd SIBGRAPI (2020).
+
+```
+@article{10.1109/ACCESS.2020.3039003,
+    author  = {S Sai Suryateja},
+    title   = {Improvement in Efficiency of The State-Of-The-Art Handwritten Text Recognition Models},
+    journal = {IEEE Access},
+    pages   = {7549-7556},
+    month   = {4},
+    year    = {2021},
+    volume  = {10},
+    isbn    = {2169-3536},
+    url     = {https://doi.org/10.1109/ACCESS.2020.3039003},
+    doi     = {10.1109/ACCESS.2020.3039003},
+}
+```
